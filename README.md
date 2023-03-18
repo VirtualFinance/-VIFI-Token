@@ -9,13 +9,13 @@ Max Buy Tax 6%
 
 Max Sell Tax 10% 
 
-Reflection Tax
+- Reflection Tax
 
-Liquidity Tax
+- Liquidity Tax
 
-Marketing Tax
+- Marketing Tax
 
-Buy-Back Tax
+- Buy-Back Tax
 
 Extra Sell Tax 2% 
 (Dividied with active taxes)
